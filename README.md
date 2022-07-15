@@ -31,7 +31,8 @@ The projected data was different after replacing the scores for Thomas High Scho
 
 
 ### Resources:
-* Data Source: *[schools_complete.csv](https://github.com/alorenz465446/School_District_Analysis/files/9116934/schools_complete.csv)
+
+* Data Source: [schools_complete.csv](https://github.com/alorenz465446/School_District_Analysis/files/9116934/schools_complete.csv) and [students_complete.csv](https://github.com/alorenz465446/School_District_Analysis/files/9116946/students_complete.csv)
 
 
 * Softwaare:Jupyter Notebook 6.4.8
