@@ -6,19 +6,19 @@ Analysis of school district using Jupyter Notebook and Python libraries(Pandas &
 
 
 ## District Analysis Results:
-### Spending Ranges (Per Student) & Grades
+### Spending Ranges (Per Student) & Scores
 <img width="647" alt="spending_range_per_student" src="https://user-images.githubusercontent.com/107652317/179126476-40ab315b-5f94-4a9a-a013-a13c869b8f68.PNG">
 
 * Schools with a higher spending ranges (per student) have the lowest passing percentages and averages for both areas of study (Math & Reading).
 
 
-### School size & Grades
+### School size & Scores
 <img width="584" alt="school_size" src="https://user-images.githubusercontent.com/107652317/179126514-1bb39cd8-f957-47e4-bfa4-960d598e71cb.PNG">
 
 * Schools with a larger size have the lowest over all passing percentage. The passing math percentage is much lower than the medium and smaller sized schools too.
 
 
-### School type & Grades
+### School type & Scores
 <img width="537" alt="school_type" src="https://user-images.githubusercontent.com/107652317/179126523-6516be47-687e-46e1-8f08-243a41f52fa5.PNG">
 
 * Charter schools outperformed district schools in math scores, reading scores, and all percentages to include % Overall Passing. 
